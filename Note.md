@@ -1,6 +1,7 @@
 # Untold Stories
 
 ## CMakeList related error 
+**For Newbies**
 - Read the content of the CMakeList.txt of packages and the workspaces.
 - Comments are instructions.
   
